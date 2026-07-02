@@ -5,9 +5,9 @@ A browsable product gallery with category filters, search, sorting, a price rang
 ## Internship submission details
 
 | Field Value
- Full Name - Prabu T
- Domain -  frontend development 
- Intern ID -  CITS4941
+ Full Name - Prabu T.
+ Domain -  frontend development .
+ Intern ID -  CITS4941.
 | Project Name | E-Commerce Product Gallery |
 | Project Scope | A frontend-only product catalogue: browse, search, filter by category and price, sort, save items to a wishlist, and manage a shopping cart — all backed by a live public product API and persisted locally in the browser. |
 
