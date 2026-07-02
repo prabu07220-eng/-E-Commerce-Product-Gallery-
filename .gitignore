@@ -14,7 +14,7 @@ build/
 
 # Logs
 *.log
-
+git branch
 # OS files
 .DS_Store
 Thumbs.db
